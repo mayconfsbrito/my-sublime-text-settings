@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"ColorPicker",
+		"CSS Unminifier",
+		"DocBlockr",
+		"DocBlockr_with_update_capability",
+		"Git",
+		"Git GUI Clients",
+		"GitStatusBar",
+		"Goto-CSS-Declaration",
+		"GotoDocumentation",
+		"HTML Minifier",
+		"HTML Snippets",
+		"HTML5",
+		"HTMLAttributes",
+		"Minifier",
+		"Minify",
+		"Modific",
+		"Moonscripty",
+		"Open Folder",
+		"Package Control",
+		"PHP Getters and Setters",
+		"PHP Syntax Checker",
+		"Phpcs",
+		"PhpDoc",
+		"PhpSimpleRefactor",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeREPL",
+		"Sublimerge 3",
+		"TrailingSpaces"
+	]
+}
