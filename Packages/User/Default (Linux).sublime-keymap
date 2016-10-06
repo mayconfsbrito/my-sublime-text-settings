@@ -46,6 +46,10 @@
 		"keys": ["ctrl+alt+up"],
 		"command": "phpcs_show_previous_errors"
 	},
+	{
+		"keys": ["ctrl+alt+o"],
+		"command": "phpunit_run_tests"
+	},
 	// {
 	// 	"keys": [],
 	// 	"command": "phpcs_"
