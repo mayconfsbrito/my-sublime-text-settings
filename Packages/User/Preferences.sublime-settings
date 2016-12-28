@@ -1,10 +1,10 @@
 {
 	"auto_complete_commit_on_tab": false,
 	"auto_complete_with_fields": false,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/Sublimerge.tmTheme",
 	"default_encoding": "Western ISO-8859-1",
 	"fallback_encoding": "Western ISO-8859-1",
-	"font_size": 9,
+	"font_size": 8,
 	"ignored_packages":
 	[
 		"Vintage"
