@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
 		"BracketHighlighter",
 		"CodeFormatter",
 		"ColorPicker",
@@ -43,6 +45,7 @@
 		"SublimeLinter-php",
 		"SublimeREPL",
 		"Sublimerge 3",
+		"Theme - Monokai",
 		"TrailingSpaces"
 	]
 }
