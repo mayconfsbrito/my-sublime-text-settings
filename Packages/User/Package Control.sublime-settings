@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Blade Snippets",
 		"BracketHighlighter",
 		"CodeFormatter",
 		"ColorPicker",
@@ -24,6 +25,7 @@
 		"HTML5",
 		"HTMLAttributes",
 		"HTMLBeautify",
+		"Laravel Blade Highlighter",
 		"Minifier",
 		"Minify",
 		"Modific",
