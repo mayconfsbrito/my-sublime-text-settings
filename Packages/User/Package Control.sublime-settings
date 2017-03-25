@@ -7,10 +7,11 @@
 	[
 		"All Autocomplete",
 		"Blade Snippets",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
 		"BracketHighlighter",
 		"CodeFormatter",
 		"ColorPicker",
-		"CSS Unminifier",
 		"DocBlockr",
 		"DocBlockr_with_update_capability",
 		"Git",
@@ -18,7 +19,6 @@
 		"GitStatusBar",
 		"Goto-CSS-Declaration",
 		"GotoDocumentation",
-		"HTML Minifier",
 		"HTML Page Snippets",
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
@@ -34,9 +34,11 @@
 		"Package Control",
 		"PHP Getters and Setters",
 		"PHP Syntax Checker",
+		"php-snippets",
 		"Phpcs",
 		"PhpDoc",
 		"PhpSimpleRefactor",
+		"PhpSpec Snippets",
 		"PHPUnit",
 		"PlainTasks",
 		"SideBarEnhancements",
@@ -46,6 +48,7 @@
 		"SublimeLinter-php",
 		"SublimeREPL",
 		"Sublimerge 3",
+		"Theme - Monokai",
 		"TrailingSpaces"
 	]
 }
