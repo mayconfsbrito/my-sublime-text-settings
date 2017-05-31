@@ -20,8 +20,11 @@
 		"PhpSimpleRefactor",
 		"PhpSpec Snippets",
 		"PHPUnit",
+		"PHP Syntax Checker",
 		"PlainTasks",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
 		"TrailingSpaces"
 	]
 }
