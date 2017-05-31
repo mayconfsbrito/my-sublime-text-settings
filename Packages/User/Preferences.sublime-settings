@@ -1,3 +1,22 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"0_package_control_loader",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"GitStatusBar",
+		"JavaScript & NodeJS Snippets",
+		"PHP Completions Kit",
+		"PHP Getters and Setters",
+		"PHP Syntax Checker",
+		"PhpDoc",
+		"PhpSpec Snippets",
+		"SublimeGit",
+		"Sublimerge 3",
+		"Theme - Monokai",
+		"TrailingSpaces",
+		"Vintage"
+	]
 }

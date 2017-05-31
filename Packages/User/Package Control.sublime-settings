@@ -1,3 +1,7 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"0_package_control_loader"
+	]
 }
