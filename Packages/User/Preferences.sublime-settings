@@ -1,34 +1,3 @@
 {
-	"always_show_minimap_viewport": true,
-	"auto_complete_commit_on_tab": true,
-	"auto_complete_with_fields": false,
-	"bold_folder_labels": true,
-	"caret_extra_bottom": 1,
-	"caret_extra_top": 1,
-	"caret_extra_width": 1,
-	"caret_style": "blink",
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
-	"default_encoding": "Western (ISO 8859-1)",
-	"fade_fold_buttons": false,
-	"fallback_encoding": "Western (ISO 8859-1)",
-	"font_size": 8,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-	"overlay_scroll_bars": "enabled",
-	"rulers":
-	[
-		80
-	],
-	"show_encoding": true,
-	"show_line_endings": true,
-	"theme": "Boxy Monokai.sublime-theme"
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
 }
