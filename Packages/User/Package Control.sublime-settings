@@ -2,6 +2,26 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"0_package_control_loader"
+	],
+	"installed_packages":
+	[
+		"Blade Snippets",
+		"CodeFormatter",
+		"DocBlockr",
+		"Git",
+		"Git GUI Clients",
+		"GitStatusBar",
+		"Goto-CSS-Declaration",
+		"GotoDocumentation",
+		"Package Control",
+		"php-snippets",
+		"Phpcs",
+		"PhpDoc",
+		"PhpSimpleRefactor",
+		"PhpSpec Snippets",
+		"PHPUnit",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"TrailingSpaces"
 	]
 }
