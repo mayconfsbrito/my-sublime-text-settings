@@ -1,1 +1,1 @@
-{"description": "Python Markdown module", "sublime_text": ">=3000", "url": "https://github.com/facelessuser/sublime-markdown/issues", "platforms": ["*"], "version": "2.6.6"}
+{"version": "2.6.6", "sublime_text": ">=3000", "description": "Python Markdown module", "url": "https://github.com/facelessuser/sublime-markdown/issues", "platforms": ["*"]}
