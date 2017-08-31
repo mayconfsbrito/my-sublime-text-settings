@@ -9,6 +9,7 @@
 		"CodeFormatter",
 		"DocBlockr",
 		"Git",
+		"Git blame",
 		"Git GUI Clients",
 		"GitGutter",
 		"GitStatusBar",
