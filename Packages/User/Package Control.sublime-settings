@@ -7,15 +7,16 @@
 	[
 		"Blade Snippets",
 		"CodeFormatter",
+		"Compare Side-By-Side",
 		"DocBlockr",
+		"Dracula Color Scheme",
 		"Git",
-		"Git blame",
-		"Git GUI Clients",
 		"GitGutter",
-		"GitStatusBar",
 		"Goto-CSS-Declaration",
 		"GotoDocumentation",
+		"JS Snippets",
 		"Package Control",
+		"PHP Constructors",
 		"PHP Getters and Setters",
 		"PHP Syntax Checker",
 		"php-snippets",
@@ -24,10 +25,14 @@
 		"PhpSimpleRefactor",
 		"PhpSpec Snippets",
 		"PHPUnit",
+		"PHPUnit Snippets",
 		"PlainTasks",
 		"SideBarEnhancements",
+		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-phpcs",
-		"TrailingSpaces"
+		"Sublimerge 3",
+		"TrailingSpaces",
+		"Xdebug Client"
 	]
 }

@@ -1,5 +1,25 @@
 # Changelog
 
+## 3.0.0
+
+> Oct 18, 2017
+
+- **NEW**: Support for `.sublime-color-schemes` (which are subject to change).
+- **NEW**: Update `rgba` library.
+
+## 2.2.0
+
+> Oct 11, 2017
+
+- **NEW**: Remove deprecations.
+- **NEW**: Update `rgba` library.
+- **NEW**: Expose contrast.
+- **NEW**: Add support for PackageDev settings completions/tooltips/linting.
+- **Fix**: Hide scratch output panel.
+- **FIX**: Increase block code font size to `1rem`.
+- **FIX**: Better YAML stripping logic.
+- **FIX**: More descriptive failure message.
+
 ## 2.1.1
 
 > June 21, 2017

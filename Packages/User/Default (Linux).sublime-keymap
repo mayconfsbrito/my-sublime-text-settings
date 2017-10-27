@@ -58,4 +58,7 @@
 			{ "key": "setting.tab_completion", "operator": "equal", "operand": true }
 		]
 	},
+	{
+		"keys": ["ctrl+alt+r"], "command": "php_simple_refactor_extract_method"
+	}
 ]

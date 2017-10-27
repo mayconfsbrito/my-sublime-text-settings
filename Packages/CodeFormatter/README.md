@@ -23,7 +23,7 @@ No sponsors yet.. :(
 
 If you like the software, don't forget to donate to further development of it!
 
-[![PayPal donate button](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=akalongman@gmail.com&item_name=Donation to Sublime Text - CodeFormatter&item_number=1&no_shipping=1 "Donate to this project using Paypal")
+[![PayPal donate button](https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=akalongman@gmail.com&item_name=Donation%20to%20Sublime%20Text%20-%20CodeFormatter&item_number=1&no_shipping=1 "Donate to this project using Paypal")
 
 
 Installing
@@ -56,6 +56,19 @@ The "Packages" directory is located at:
         ST2: %APPDATA%/Sublime Text 2/Packages/
         ST3: %APPDATA%/Sublime Text 3/Packages/
 
+## Configuration
+
+To change the default configurations you have to update the **CodeFormatter - User Preferences** file. You can find this file in the Sublime Text menu bar under: `Sublime Text > Package Settings > CodeFormatter > Settings - User`. 
+
+Make sure that you wrap all the configurations into a single root object.
+
+```js
+{
+   "codeformatter_php_options": {...},
+   "codeformatter_js_options": {...},
+   ..
+}
+```
 
 ## Formatter-specific notes
 Following are notes specific to individual formatters that you should be aware of:
