@@ -14,6 +14,8 @@
 		"GitGutter",
 		"Goto-CSS-Declaration",
 		"GotoDocumentation",
+		"JavaScript Completions",
+		"JavaScript Snippets",
 		"JS Snippets",
 		"Package Control",
 		"PHP Constructors",
@@ -32,6 +34,8 @@
 		"SublimeLinter",
 		"SublimeLinter-phpcs",
 		"Sublimerge 3",
+		"Theme - Elementary",
+		"Theme - Monokai+",
 		"TrailingSpaces",
 		"Xdebug Client"
 	]
