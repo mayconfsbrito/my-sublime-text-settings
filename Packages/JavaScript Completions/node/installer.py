@@ -174,14 +174,24 @@ def updateNPMDependencies():
     print("Error: "+traceback.format_exc())
     return
     
+<<<<<<< HEAD
   #animation_loader = AnimationLoader(["[=     ]", "[ =    ]", "[   =  ]", "[    = ]", "[     =]", "[    = ]", "[   =  ]", "[ =    ]"], 0.067, "Updating npm dependencies ")
   #interval_animation = RepeatedTimer(animation_loader.sec, animation_loader.animate)
+=======
+  animation_loader = AnimationLoader(["[=     ]", "[ =    ]", "[   =  ]", "[    = ]", "[     =]", "[    = ]", "[   =  ]", "[ =    ]"], 0.067, "Updating npm dependencies ")
+  interval_animation = RepeatedTimer(animation_loader.sec, animation_loader.animate)
+>>>>>>> 2e5302726ccc5f8f467af2e9dea005bd98b75333
   try :
     npm.update_all(False) 
   except Exception as e:
     pass
+<<<<<<< HEAD
   #animation_loader.on_complete()
   #interval_animation.stop()
+=======
+  animation_loader.on_complete()
+  interval_animation.stop()
+>>>>>>> 2e5302726ccc5f8f467af2e9dea005bd98b75333
 
 def already_installed():
   return os.path.isfile(node_variables.NODE_JS_PATH_EXECUTABLE)

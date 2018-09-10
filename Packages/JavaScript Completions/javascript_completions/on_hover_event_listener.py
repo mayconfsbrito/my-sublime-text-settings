@@ -17,9 +17,12 @@ class JavaScriptCompletionsHoverEventListener(sublime_plugin.EventListener):
 
     str_region = view.word(point)
     result = Util.get_current_region_scope(view, str_region)
+<<<<<<< HEAD
     if not result:
       return
       
+=======
+>>>>>>> 2e5302726ccc5f8f467af2e9dea005bd98b75333
     str_selected = result.get("region_string_stripped")
     completion_list = list()
     for API_Keyword in javascriptCompletions.api :

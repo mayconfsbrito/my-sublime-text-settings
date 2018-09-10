@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>🎉🎉 ANNOUNCEMENT - NEW PLUGIN "JavaScript Enhancements" RELEASED 🎉🎉</h1>
 
 <p>
@@ -32,6 +33,45 @@ It will turn Sublime Text into a <strong>JavaScript IDE</strong> like!
 - Linux (64-bit)
 - Mac OS X 
 - Windows (64-bit): released without the use of [TerminalView](https://github.com/Wramberg/TerminalView) plugin. For each feature (like also creating a project) will be used the `cmd.exe` shell (so during the creation of a project **don't close it** until it finishes!). Unfortunately the TerminalView plugin supports only **Linux-based OS** 😞 . Has someone any advice or idea about that? Is there something similar to the TerminalView plugin for Windows?? Thanks!
+=======
+<h1>JavaScript Completions</h1>
+
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-2%20%2F%203-brightgreen.svg)](https://www.sublimetext.com/)
+[![Package Control](https://img.shields.io/packagecontrol/dt/JavaScript%20Completions.svg)](https://packagecontrol.io/packages/JavaScript%20Completions) 
+[![Package Control](https://img.shields.io/packagecontrol/dd/JavaScript%20Completions.svg)](https://packagecontrol.io/packages/JavaScript%20Completions)
+
+JavaScript Completions for sublime text
+
+It helps you to write your scripts more quickly with hints and completions.
+
+<h2>Announcement</h2>
+<p>
+
+I'm developing a new plugin with new features thanks to <strong><a href="https://github.com/facebook/flow">Flow</a></strong> (javascript static type checker from Facebook).
+With it I can implement other <strong>features</strong> and there will be a better <strong>autocomplete</strong>
+(<strong style="text-decoration: underline;">smart autocomplete based on the current context</strong>).
+
+This is in <strong>Beta version</strong> and I published it on another github repository:
+
+<a href="https://github.com/pichillilorenzo/JavaScriptEnhancements">https://github.com/pichillilorenzo/JavaScriptEnhancements</a>
+
+This new plugin will offer not only a better autocomplete but a lot of features about creating, 
+developing and managing javascript projects, such as:
+
+- Cordova projects (run Cordova emulator, build, compile, serve Cordova projects, add plugins and available platforms, the ability to install local version of Cordova in the project, etc … directly on Sublime Text!)
+- Ionic projects (same as Cordova projects!)
+- Angular projects
+- Node.js projects
+- Local bookmarks project
+- Show javascript errors with Flow
+- etc, etc …
+
+It will turn Sublime Text into a <strong>JavaScript IDE</strong> like!
+
+It isn’t ready for public testing and there isn’t a documentation at the moment!
+
+<strong>WATCH</strong> the repository to stay tuned for any news!
+>>>>>>> 2e5302726ccc5f8f467af2e9dea005bd98b75333
 
 Email me for any questions or doubts about this new project on: <a href="mailto:pichillilorenzo@gmail.com">pichillilorenzo@gmail.com</a>
 
@@ -40,6 +80,7 @@ Thanks for your support!!!
 
 <hr>
 
+<<<<<<< HEAD
 <h2>JavaScript Completions</h2>
 
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-2%20%2F%203-brightgreen.svg)](https://www.sublimetext.com/)
@@ -50,6 +91,8 @@ JavaScript Completions for sublime text
 
 It helps you to write your scripts more quickly with hints and completions.
 
+=======
+>>>>>>> 2e5302726ccc5f8f467af2e9dea005bd98b75333
 <strong>jQuery</strong> and <strong>NativeScript</strong> completions disabled by default!
 You can enable them on Preferences -> Package Settings -> JavaScript Completions.
 
@@ -160,7 +203,11 @@ You can use this feature in HTML, CSS and JavaScript context!
 
 Just put the cursor on the word you want to check, "right-click" -> <code>"Can I use?"</code> and it will appear an input panel with all items that have a name matching with the word.
 
+<<<<<<< HEAD
 You can use key-map: <code>ctrl+alt+w</code> (<code>super+alt+w</code> on Windows). Key-Map list: Preferences -> Package Settings ->  JavaScript Completions -> Key Bindings - Default.
+=======
+You can use key-map: <code>ctrl+alt+w</code>. Key-Map list: Preferences -> Package Settings ->  JavaScript Completions -> Key Bindings - Default.
+>>>>>>> 2e5302726ccc5f8f467af2e9dea005bd98b75333
 
 After selecting an item from the list, it will appear a popup with all information from the [http://caniuse.com](http://caniuse.com) support tables.
 
