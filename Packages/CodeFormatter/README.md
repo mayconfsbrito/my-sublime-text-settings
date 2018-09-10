@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/akalongman/sublimetext-codeformatter.svg?branch=master)](https://travis-ci.org/akalongman/sublimetext-codeformatter)
+
 CodeFormatter
 =============
 
@@ -7,11 +9,10 @@ CodeFormatter is a Sublime Text 2/3 plugin that supports format (beautify) sourc
 
 CodeFormatter has support for the following languages:
 
-* PHP - By [phpfmt](https://github.com/subins2000/phpfmt)
+* PHP - By [phpF](https://github.com/subins2000/phpF)
 * JavaScript/JSON - By JSBeautifier
 * HTML - By [Custom fork of BeautifulSoup](https://github.com/akalongman/python-beautifulsoup)
-* CSS - By JSBeautifier
-* SCSS - By Nishutosh Sharma
+* CSS,LESS,SASS - By JSBeautifier
 * Python - By PythonTidy (only ST2)
 * Visual Basic/VBScript
 * Coldfusion/Railo/Lucee
@@ -73,11 +74,11 @@ Make sure that you wrap all the configurations into a single root object.
 ## Formatter-specific notes
 Following are notes specific to individual formatters that you should be aware of:
 ### PHP
-PHP - Used phpfmt (https://github.com/subins2000/phpfmt) by Carlos Cirello, Shaked Klein Orbach and Subin Siby.
+PHP - Used [phpF](https://github.com/subins2000/phpF) by [@subins2000](https://github.com/subins2000)
 
 Getting and installing PHP - http://www.php.net/manual/en/install.general.php
 
-You must install 5.6 or above (https://github.com/subins2000/phpfmt#requirements)
+You must install 5.6 or above (https://github.com/subins2000/phpF#requirements)
 
 On Linux/OSx after installation of package, you must set chmod +x to file fmt.phar in folder %PACKAGESDIR%/CodeFormatter/codeformatter/lib/phpbeautifier
 
@@ -314,15 +315,26 @@ Tools -> Command Palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and type `Format Code
 
 You can set up your own key combo for this, by going to Preferences -> Key Bindings - User, and adding a command in that huge array: `{ "keys": ["ctrl+alt+f"], "command": "code_formatter" },`. Default keybinding is `ctrl+alt+f`. You can use any other key you want, thought most of them are already taken.
 
-TODO
------
+## TODO
+
 Add other languages support:
 * Python (for ST3)
 * Perl
 * Ruby
 
-Pull requests are welcome.
+Add tests
 
-Troubleshooting
----------------
+## Troubleshooting
+
 If you like living on the edge, please report any bugs you find on the [CodeFormatter issues](https://github.com/akalongman/sublimetext-codeformatter/issues) page.
+
+## Contributing
+
+Pull requests are welcome.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for information.
+
+## License
+
+Please see the [LICENSE](LICENSE.md) included in this repository for a full copy of the MIT license,
+which this project is licensed under.
+

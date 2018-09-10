@@ -3,9 +3,9 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": false,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"default_encoding": "Western (ISO 8859-1)",
+	"default_encoding": "UFT-8",
 	"fade_fold_buttons": false,
-	"fallback_encoding": "Western (ISO-88591)",
+	"fallback_encoding": "UFT-8",
 	"font_size": 8,
 	"ignored_packages":
 	[
@@ -25,5 +25,6 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Adaptive.sublime-theme"
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
