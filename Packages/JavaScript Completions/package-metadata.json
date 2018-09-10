@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"sublime_text": "*", "description": "JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.", "version": "2.6.99", "url": "https://github.com/pichillilorenzo/JavaScript-Completions", "platforms": ["*"], "dependencies": []}
-=======
-{"dependencies": [], "sublime_text": "*", "platforms": ["*"], "description": "JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.", "version": "2.6.94", "url": "https://github.com/pichillilorenzo/JavaScript-Completions"}
->>>>>>> 2e5302726ccc5f8f467af2e9dea005bd98b75333
+{"dependencies": [], "sublime_text": "*", "version": "2.6.99", "description": "JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.", "url": "https://github.com/pichillilorenzo/JavaScript-Completions", "platforms": ["*"]}
